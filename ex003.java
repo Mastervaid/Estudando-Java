@@ -25,5 +25,6 @@ public class ex003 {
         }else{
             System.out.println("Não são multiplos");
         }
+		sc.close();
     }
 }

@@ -19,5 +19,6 @@ public class ex004 {
             reposta = numero2 - numero1;
         }
         System.err.printf("O Jogo Durou %d horas",reposta);
+		sc.close();
     }
 }

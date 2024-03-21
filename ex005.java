@@ -1,5 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
 import java.util.*;
 public class ex005 {
    
@@ -21,5 +19,6 @@ public class ex005 {
         double total = (double)(map.get(entrada1) + map.get(entrada2));
         System.err.printf("TOTAL: R$ %.2f", total);
 
+		sc.close();
     }
 }

@@ -25,6 +25,7 @@ public class ex007 {
         }else{
             System.out.println("origem");
         }
+		sc.close();    
     }
 }
 

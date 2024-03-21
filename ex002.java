@@ -14,5 +14,6 @@ public class ex002 {
             System.out.printf("O numero %d é im4par",numero);
         }
             
+		sc.close();
     }
 }

@@ -18,5 +18,6 @@ public class ex006 {
         }else{
             System.out.println("Fora de intervalo");
         }
+		sc.close();
     }
 }

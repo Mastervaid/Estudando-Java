@@ -13,5 +13,6 @@ public class ex001 {
             System.out.printf("O numero %d é positivo",numero);
         }
 
+		sc.close();
     }
 }
